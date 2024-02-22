@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ejarnutowski/laravel-api-key": "^1.0"
+    }
+}
